@@ -1,5 +1,5 @@
 # arch
-运维架构图<br>
+收集日志如下：<br>
  nginx-log<br>
  /var/log/message<br>
  tomcat-log<br>
